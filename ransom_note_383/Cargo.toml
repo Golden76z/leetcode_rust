@@ -1,0 +1,6 @@
+[package]
+name = "ransom_note_383"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
