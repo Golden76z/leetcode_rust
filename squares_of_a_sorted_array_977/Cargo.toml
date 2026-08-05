@@ -1,0 +1,6 @@
+[package]
+name = "squares_of_a_sorted_array_977"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
