@@ -3,12 +3,14 @@
 LeetCode exercises written in Rust — one crate per problem (`problem_name_number`).
 To try a solution: `cd` into its directory, then `cargo run` or `cargo test`.
 
-<a href="https://leetcode.com/u/Golden76z/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Golden76z?theme=dark&font=Karla&ext=heatmap">
-    <img width="100%" src="https://leetcard.jacoblin.cool/Golden76z?theme=light&font=Karla&ext=heatmap" alt="LeetCode stats and submission heatmap for Golden76z">
-  </picture>
-</a>
+<p align="center">
+  <a href="https://leetcode.com/u/Golden76z/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Golden76z?theme=dark&font=Karla&ext=heatmap">
+      <img width="60%" src="https://leetcard.jacoblin.cool/Golden76z?theme=light&font=Karla&ext=heatmap" alt="LeetCode stats and submission heatmap for Golden76z">
+    </picture>
+  </a>
+</p>
 
 ## Solutions — 29 solved
 
