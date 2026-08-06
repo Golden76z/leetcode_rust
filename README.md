@@ -12,12 +12,15 @@ To try a solution: `cd` into its directory, then `cargo run` or `cargo test`.
   </a>
 </p>
 
-## Solutions — 29 solved
+## Solutions — 32 solved
 
 Most recent first (30 latest shown, older ones in the archive below).
 
 | # | Problem | Difficulty | Technique | Runtime / Memory |
 |---:|---------|:---:|-----------|:---:|
+| 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | Stack | 0ms / 4.38mb |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | 🟡 Medium | Match | 0ms / 2.76mb |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | Match | 0ms / 2.18mb |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | 🟢 Easy | Stack (`match`) | 0ms / 2.33mb |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | Two pointers | 0ms / 2.50mb |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | Two pointers | 2ms / 3.15mb |
@@ -45,14 +48,15 @@ Most recent first (30 latest shown, older ones in the archive below).
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | 🟢 Easy | Iteration | 1ms |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | 🟢 Easy | Two pointers | 0ms |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | One-pass min tracking | 3ms |
-| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | Vertical scan | 0ms |
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | Value mapping | 1ms |
 
 <!-- Keep the table above at max 30 rows: when adding a new solution at the top,
      move the oldest visible row into the archive below. -->
 <details>
 <summary>📁 Older solutions</summary>
 
-_Nothing here yet — everything still fits in the table above._
+| # | Problem | Difficulty | Technique | Runtime / Memory |
+|---:|---------|:---:|-----------|:---:|
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | Vertical scan | 0ms |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | Value mapping | 1ms |
 
 </details>
